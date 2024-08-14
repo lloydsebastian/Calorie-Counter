@@ -1,6 +1,7 @@
 # Calorie Counter Application
 
 This Calorie Counter application helps users track their daily calorie intake and expenditure. Users can input their budgeted calories, consumed calories from various meals, and calories burned through exercise. The application then calculates the remaining calories and indicates whether the user is in a calorie surplus or deficit.
+
 ![image](https://github.com/user-attachments/assets/e5aa2e58-7bec-4eec-b66f-84421cd491d3)
 
 ## Features
